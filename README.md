@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ramtirlangi
+- 👀 I’m interested in developing software utilities to make life easier
+- 🌱 I’m currently learning python, c#, azure and to some extent Machine Learning
+- 💞️ I’m looking to collaborate on all types of dev projects which will be useful for humanity
+- 📫 You can contact me at tirlangi.ram@outlook.com
